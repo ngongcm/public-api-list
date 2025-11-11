@@ -23,13 +23,13 @@ A curated collection of the best free, freemium, and paid APIs for developers.
 
 ## 📘 Index
 
-* [Sports](#sports)
-* [Finance](#finance)
-* [Sports Betting & Odds](#sports-betting--odds)
-* [AI & Machine Learning](#ai--machine-learning)
-* [News & Media](#news--media)
-* [Weather](#weather)
-* [Developer Tools](#developer-tools)
+* [Sports](#-sports)
+* [Finance](#-finance)
+* [Sports Betting & Odds](#-sports-betting--odds)
+* [AI & Machine Learning](#-ai--machine-learning)
+* [News & Media](#-news--media)
+* [Weather](#-weather)
+* [Developer Tools](#-developer-tools)
 
 ---
 
