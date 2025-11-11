@@ -1,6 +1,6 @@
-# 🌐 Awesome Public APIs by SteadyAPI
+# 🌐 Awesome Public APIs
 
-A curated collection of the best free, freemium, and paid APIs for developers — featuring real-time data from **[SteadyAPI](https://docs.steadyapi.com/)**.
+A curated collection of the best free, freemium, and paid APIs for developers.
 
 ---
 
