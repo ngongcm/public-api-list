@@ -91,6 +91,7 @@ API | Description | Auth | HTTPS | Free
 API | Description | Auth | HTTPS | Free
 |:---|:---|:---|:---|:---|
 | [RapidAPI](https://rapidapi.com/) | API marketplace & hub | `apiKey` | ✅ | Free |
+| [Haunt API](https://hauntapi.com) | AI-powered web extraction API with markdown output | `apiKey` | ✅ | Freemium |
 | [Postman Public APIs](https://www.postman.com/explore) | Shared API collections for developers | None | ✅ | Free |
 | [ReqRes](https://reqres.in/) | Mock API for testing frontend apps | None | ✅ | Free |
 
