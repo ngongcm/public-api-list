@@ -31,6 +31,7 @@ A curated collection of the best free, freemium, and paid APIs for developers.
 * [Sports Betting & Odds](#-sports-betting--odds)
 * [AI & Machine Learning](#-ai--machine-learning)
 * [News & Media](#-news--media)
+* [Social APIs](#-social-apis)
 * [Weather](#-weather)
 * [Developer Tools](#-developer-tools)
 
@@ -82,12 +83,19 @@ API | Description | Auth | HTTPS | Free
 
 ---
 
+## 💬 Social APIs
+API | Description | Auth | HTTPS | Free
+|:---|:---|:---|:---|:---|
+| [Xquik](https://docs.xquik.com/api-reference/overview) | X data API for search, profiles, exports, monitoring, webhooks, remote MCP & SDKs. Supports approved publishing. Not affiliated with X Corp. | `apiKey` | ✅ | Paid |
+
+---
+
 ## 🌦️ Weather
 API | Description | Auth | HTTPS | Free
 |:---|:---|:---|:---|:---|
 | [OpenWeatherMap](https://openweathermap.org/api) | Weather forecasts & current conditions | `apiKey` | ✅ | Free |
 | [Weatherbit](https://www.weatherbit.io/api) | Weather and air quality APIs | `apiKey` | ✅ | Freemium |
-| [Climacell](https://developer.tomorrow.io/) | Real-time weather insights | `apiKey` | ✅ | Paid |
+| [Tomorrow.io](https://www.tomorrow.io/weather-api/) | Real-time weather insights | `apiKey` | ✅ | Paid |
 
 ---
 
@@ -114,7 +122,7 @@ Each entry should include:
 | **CORS** | Whether Cross-Origin Resource Sharing is enabled (`Yes`, `No`, or `Unknown`) |
 
 ### 🧩 Example
-| [ExampleAPI](https://example.com/api-docs) | Provides example data for testing | No | Yes | Yes |
+| [ExampleAPI](https://example.com/) | Provides example data for testing | No | Yes | Yes |
 
 
 We review submissions weekly and credit contributors in the changelog.
