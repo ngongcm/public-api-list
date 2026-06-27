@@ -8,16 +8,19 @@ A curated collection of the best free, freemium, and paid APIs for developers.
 
 | API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
-| [Stocks & Options](https://docs.steadyapi.com/#stocks-options) | Access stock, ETF, and options data with real-time updates | `apiKey` | Yes | Yes |
-| [Instagram Social](https://docs.steadyapi.com/#instagram-social) | Scrape public Instagram data, posts, and user profiles | `apiKey` | Yes | Yes |
+| [Stocks & Options](https://steadyapi.com/pages/stock-and-options-data-api) | Access stock, ETF, and options data with real-time updates | `apiKey` | Yes | Yes |
+| [Instagram Social](https://steadyapi.com/pages/instagram-social-api) | Scrape public Instagram data, posts, and user profiles | `apiKey` | Yes | Yes |
 | [Crypto](https://docs.steadyapi.com/#crypto) | Cryptocurrency price, market cap, and exchange data | `apiKey` | Yes | Yes |
-| [Reddit Social](https://docs.steadyapi.com/#reddit) | Track trending Reddit posts and sentiment | `apiKey` | Yes | Yes |
-| [Real Estate](https://docs.steadyapi.com/#real-estate) | Access property listings, valuation, and housing data | `apiKey` | Yes | Yes |
+| [Reddit Social](https://steadyapi.com/pages/reddit-api) | Track trending Reddit posts and sentiment | `apiKey` | Yes | Yes |
+| [Real Estate](https://docs.steadyapi.com/#real-estate) | Access property listings, valuation, and housing data from Realtor | `apiKey` | Yes | Yes |
 | [Baseball (MLB)](https://docs.steadyapi.com/#baseball-mlb) | MLB stats, schedules, and player data | `apiKey` | Yes | Yes |
 | [Hockey (NHL)](https://docs.steadyapi.com/#hockey-nhl) | NHL teams, players, and live scores | `apiKey` | Yes | Yes |
 | [Aliexpress](https://docs.steadyapi.com/#aliexpress) | Scrape product listings and pricing data from Aliexpress | `apiKey` | Yes | Yes |
-| [Amazon](https://docs.steadyapi.com/#amazon) | Retrieve structured Amazon product details | `apiKey` | Yes | Yes |
-| [Twitter Social](https://docs.steadyapi.com/#twitter-social) | Access trending topics, tweets, and user insights | `apiKey` | Yes | Yes |
+| [Amazon](https://steadyapi.com/pages/real-time-amazon-data-api) | Retrieve structured Amazon product details | `apiKey` | Yes | Yes |
+| [AutoHub API](https://steadyapi.com/pages/autohub-car-api) | Access vehicle listings, specifications, pricing data,  and depreciation | `apiKey` | Yes | Yes |
+| [Booking.com API](https://steadyapi.com/pages/bookingcom-api) | Access hotels, flights, rental cars, and destination data | `apiKey` | Yes | Yes |
+| [Twitter Social](https://steadyapi.com/pages/twitter-social-api) | Access trending topics, tweets, and user insights | `apiKey` | Yes | Yes |
+| [ScrapeFlow API](https://steadyapi.com/pages/scrapeflow-api) | Powerful web scraping API that unblocks any website. | `apiKey` | Yes | Yes |
 
 ---
 
