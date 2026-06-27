@@ -39,6 +39,7 @@ API | Description | Auth | HTTPS | Free
 | [API-Football](https://www.api-football.com/) | Live football data & stats | `apiKey` | ✅ | Freemium |
 | [TheSportsDB](https://www.thesportsdb.com/) | Community-driven sports database | `apiKey` | ✅ | Free |
 | [SportsData.io](https://sportsdata.io/) | Major sports stats and odds | `apiKey` | ✅ | Paid |
+| [World Cup 2026 Tour](https://ay-worldcup2026.zeabur.app/developers) | World Cup 2026 fixtures, local-time conversion, and calendar links | No | ✅ | Free |
 
 ---
 
