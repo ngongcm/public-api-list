@@ -28,6 +28,7 @@ A curated collection of the best free, freemium, and paid APIs for developers.
 
 * [Sports](#-sports)
 * [Finance](#-finance)
+* [Blockchain & Crypto](#-blockchain--crypto)
 * [Sports Betting & Odds](#-sports-betting--odds)
 * [AI & Machine Learning](#-ai--machine-learning)
 * [News & Media](#-news--media)
@@ -53,6 +54,13 @@ API | Description | Auth | HTTPS | Free
 | [Alpha Vantage](https://www.alphavantage.co/) | Stock and forex market data | `apiKey` | ✅ | Free |
 | [Finnhub](https://finnhub.io/) | Real-time financial data | `apiKey` | ✅ | Freemium |
 | [Yahoo Finance](https://finance.yahoo.com/) | Global financial market data | None | ✅ | Free |
+
+---
+
+## 🔗 Blockchain & Crypto
+API | Description | Auth | HTTPS | Free
+|:---|:---|:---|:---|:---|
+| [Block Lottos](https://blocklottos.com/openapi.json) | On-chain lottery stats, draw history, jackpot, advertising, and wallet-signed ticket transaction endpoints | No | ✅ | Free |
 
 ---
 
