@@ -53,6 +53,7 @@ API | Description | Auth | HTTPS | Free
 | [Alpha Vantage](https://www.alphavantage.co/) | Stock and forex market data | `apiKey` | ✅ | Free |
 | [Finnhub](https://finnhub.io/) | Real-time financial data | `apiKey` | ✅ | Freemium |
 | [Yahoo Finance](https://finance.yahoo.com/) | Global financial market data | None | ✅ | Free |
+| [Sharpe](https://www.sharpe.ai/docs/free-api) | Crypto market intelligence for derivatives, funding rates, arbitrage, narratives, listings, and news | No | ✅ | Free |
 
 ---
 
