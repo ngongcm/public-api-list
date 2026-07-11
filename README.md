@@ -70,6 +70,7 @@ API | Description | Auth | HTTPS | Free
 | [OpenAI](https://platform.openai.com/) | Text, image, and chat AI models | `apiKey` | ✅ | Paid |
 | [Replicate](https://replicate.com/) | Cloud-based ML model execution | `apiKey` | ✅ | Paid |
 | [Hugging Face Inference API](https://huggingface.co/inference-api) | Run transformers & LLMs in the cloud | `apiKey` | ✅ | Freemium |
+| [AI ROUTER](https://ai-router.dev) | Independent OpenAI-compatible AI API relay with dashboard API keys and per-key usage visibility | `apiKey` | ✅ | Freemium |
 
 ---
 
