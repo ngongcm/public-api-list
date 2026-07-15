@@ -53,6 +53,7 @@ API | Description | Auth | HTTPS | Free
 | [Alpha Vantage](https://www.alphavantage.co/) | Stock and forex market data | `apiKey` | ✅ | Free |
 | [Finnhub](https://finnhub.io/) | Real-time financial data | `apiKey` | ✅ | Freemium |
 | [Yahoo Finance](https://finance.yahoo.com/) | Global financial market data | None | ✅ | Free |
+| [AgentServices](https://agentservices.to) | Crypto market data, forex rates, and financial APIs with x402 on-chain payments | `x402` | ✅ | Paid |
 
 ---
 
