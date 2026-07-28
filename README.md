@@ -94,6 +94,7 @@ API | Description | Auth | HTTPS | Free
 ## 🧰 Developer Tools
 API | Description | Auth | HTTPS | Free
 |:---|:---|:---|:---|:---|
+| [DomScan](https://domscan.net/docs) | Domain, DNS, WHOIS/RDAP, TLS, email, security, valuation, and brand intelligence | `apiKey` | ✅ | Free |
 | [RapidAPI](https://rapidapi.com/) | API marketplace & hub | `apiKey` | ✅ | Free |
 | [Postman Public APIs](https://www.postman.com/explore) | Shared API collections for developers | None | ✅ | Free |
 | [ReqRes](https://reqres.in/) | Mock API for testing frontend apps | None | ✅ | Free |
