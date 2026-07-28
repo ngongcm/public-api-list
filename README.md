@@ -51,6 +51,7 @@ API | Description | Auth | HTTPS | Free
 |:---|:---|:---|:---|:---|
 | [Mboum Finance](https://mboum.com/api) | Stock, options, and market fundamentals | `apiKey` | ✅ | Freemium |
 | [Alpha Vantage](https://www.alphavantage.co/) | Stock and forex market data | `apiKey` | ✅ | Free |
+| [DepthFeed](https://depthfeed.com/docs) | Historical prediction-market order-book depth for backtesting | `apiKey` | ✅ | Freemium |
 | [Finnhub](https://finnhub.io/) | Real-time financial data | `apiKey` | ✅ | Freemium |
 | [Yahoo Finance](https://finance.yahoo.com/) | Global financial market data | None | ✅ | Free |
 
