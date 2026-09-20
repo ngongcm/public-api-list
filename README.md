@@ -3,7 +3,7 @@
 A curated collection of the best free, freemium, and paid APIs for developers.
 
 <p align="center">
-  <a href="https://freeapidata.com">
+  <a href="https://freeapidata.com" target="_blank" rel="noopener noreferrer">
     <img src="freeapidata.jpg" alt="FreeAPIData Banner" width="100%">
   </a>
 </p>
