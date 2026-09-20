@@ -70,6 +70,7 @@ API | Description | Auth | HTTPS | Free
 | [OpenAI](https://platform.openai.com/) | Text, image, and chat AI models | `apiKey` | ✅ | Paid |
 | [Replicate](https://replicate.com/) | Cloud-based ML model execution | `apiKey` | ✅ | Paid |
 | [Hugging Face Inference API](https://huggingface.co/inference-api) | Run transformers & LLMs in the cloud | `apiKey` | ✅ | Freemium |
+| [HOL Registry Broker](https://hol.org/docs/registry-broker/) | Discover AI agents & MCP servers (OpenAPI available) | `apiKey` | ✅ | Free |
 
 ---
 
