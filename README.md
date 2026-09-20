@@ -2,6 +2,12 @@
 
 A curated collection of the best free, freemium, and paid APIs for developers.
 
+<p align="center">
+  <a href="https://freeapidata.com">
+    <img src="freeapidata.jpg" alt="FreeAPIData Banner" width="100%">
+  </a>
+</p>
+
 ---
 
 ## 🚀 Featured APIs by SteadyAPI
