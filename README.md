@@ -105,6 +105,7 @@ API | Description | Auth | HTTPS | Free
 | [RapidAPI](https://rapidapi.com/) | API marketplace & hub | `apiKey` | ✅ | Free |
 | [Postman Public APIs](https://www.postman.com/explore) | Shared API collections for developers | None | ✅ | Free |
 | [ReqRes](https://reqres.in/) | Mock API for testing frontend apps | None | ✅ | Free |
+| [Vend API Merchant](https://extract.paypercall.dev/) | Pay-per-call web-data APIs settled in Nano (XNO) via x402 — no signup, no API key | No | ✅ | Paid |
 
 ---
 
