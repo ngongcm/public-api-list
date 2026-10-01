@@ -87,6 +87,7 @@ API | Description | Auth | HTTPS | Free
 | [NewsAPI](https://newsapi.org/) | Global news and headlines | `apiKey` | ✅ | Freemium |
 | [Mediastack](https://mediastack.com/) | Real-time news data feed | `apiKey` | ✅ | Freemium |
 | [CurrentsAPI](https://currentsapi.services/) | Trending news & events | `apiKey` | ✅ | Freemium |
+| [Noozra](https://noozra.com/api) | Headlines from 70+ news sites, grouped into stories | `apiKey` | ✅ | Freemium |
 
 ---
 
