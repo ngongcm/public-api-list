@@ -59,6 +59,7 @@ API | Description | Auth | HTTPS | Free
 | [Alpha Vantage](https://www.alphavantage.co/) | Stock and forex market data | `apiKey` | ✅ | Free |
 | [FXMacroData](https://fxmacrodata.com) | Forex macroeconomic data, central bank releases, rates, inflation, and GDP | `apiKey` | ✅ | Freemium |
 | [Finnhub](https://finnhub.io/) | Real-time financial data | `apiKey` | ✅ | Freemium |
+| [0xArchive](https://docs.0xarchive.io/) | Market data for Hyperliquid and Lighter | `apiKey` | ✅ | Freemium |
 | [Yahoo Finance](https://finance.yahoo.com/) | Global financial market data | None | ✅ | Free |
 | [FinancialData.Net](https://financialdata.net/) | Stock data, financial statements, ratios, insider trades | `apiKey | ✅ | Freemium |
 
