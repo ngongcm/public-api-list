@@ -104,6 +104,7 @@ API | Description | Auth | HTTPS | Free
 API | Description | Auth | HTTPS | Free
 |:---|:---|:---|:---|:---|
 | [DomScan](https://domscan.net/docs) | Domain, DNS, WHOIS/RDAP, TLS, email, security, valuation, and brand intelligence | `apiKey` | ✅ | Free |
+| [Tanod](https://tanod.dev/openapi.json) | PDF and image processing, web page to Markdown, DNS and TLS lookups, onchain reads and address risk checks; pay per call in USDC via x402 | None | ✅ | Free daily allowance per IP |
 | [RapidAPI](https://rapidapi.com/) | API marketplace & hub | `apiKey` | ✅ | Free |
 | [Postman Public APIs](https://www.postman.com/explore) | Shared API collections for developers | None | ✅ | Free |
 | [ReqRes](https://reqres.in/) | Mock API for testing frontend apps | None | ✅ | Free |
