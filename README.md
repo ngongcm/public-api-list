@@ -112,6 +112,7 @@ API | Description | Auth | HTTPS | Free
 | [RapidAPI](https://rapidapi.com/) | API marketplace & hub | `apiKey` | ✅ | Free |
 | [Postman Public APIs](https://www.postman.com/explore) | Shared API collections for developers | None | ✅ | Free |
 | [ReqRes](https://reqres.in/) | Mock API for testing frontend apps | None | ✅ | Free |
+| [CurlShot](https://curlshot.com/docs) | Screenshot API: turn a URL, HTML or Markdown into PNG, JPEG, WebP or PDF | `apiKey` | ✅ | Freemium |
 
 ---
 
