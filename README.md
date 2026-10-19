@@ -129,6 +129,7 @@ API | Description | Auth | HTTPS | Free
 | [Real-Time Amazon Data](https://rapidapi.com/sparior/api/real-time-amazon-data5) | Amazon product data, search, pricing, and product research | `apiKey` | ✅ | Check plans |
 | [Walmart Data](https://rapidapi.com/sparior/api/walmart-data1) | Walmart product search and marketplace data | `apiKey` | ✅ | Check plans |
 | [Real-Time eBay Data](https://rapidapi.com/sparior/api/real-time-ebay-data3) | eBay product listings, prices, and marketplace research | `apiKey` | ✅ | Check plans |
+| [Whale Coupons](https://github.com/whalecoupons/whale-coupons-mcp#public-data) | Store-issued coupon codes for 2,500+ independent online stores as one public JSON file (`https://whalecoupons.co/codes.json`, CORS enabled), plus a read-only remote MCP server | No | ✅ | Free |
 
 ---
 
