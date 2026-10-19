@@ -129,6 +129,7 @@ API | Description | Auth | HTTPS | Free
 | [Real-Time Amazon Data](https://rapidapi.com/sparior/api/real-time-amazon-data5) | Amazon product data, search, pricing, and product research | `apiKey` | ✅ | Check plans |
 | [Walmart Data](https://rapidapi.com/sparior/api/walmart-data1) | Walmart product search and marketplace data | `apiKey` | ✅ | Check plans |
 | [Real-Time eBay Data](https://rapidapi.com/sparior/api/real-time-ebay-data3) | eBay product listings, prices, and marketplace research | `apiKey` | ✅ | Check plans |
+| [Ecommerce Data API](https://ecommercedataapi.com/docs) | Amazon product, keyword, traffic and market research data via REST APIs and remote MCP | `apiKey` | ✅ | Paid |
 
 ---
 
