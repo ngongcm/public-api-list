@@ -78,6 +78,7 @@ API | Description | Auth | HTTPS | Free
 | [0xArchive](https://docs.0xarchive.io/) | Market data for Hyperliquid and Lighter | `apiKey` | ✅ | Freemium |
 | [Yahoo Finance](https://finance.yahoo.com/) | Global financial market data | None | ✅ | Free |
 | [FinancialData.Net](https://financialdata.net/) | Stock data, financial statements, ratios, and insider trades | `apiKey` | ✅ | Freemium |
+| [SiftingIO](https://sifting.io/docs) | Real-time and historical prices and OHLCV for US stocks, forex, commodities and crypto | `apiKey` | ✅ | Freemium |
 
 ---
 
@@ -226,3 +227,4 @@ This project aims to:
 
 Released under the [MIT License](LICENSE).  
 Maintained by [SteadyAPI](https://docs.steadyapi.com/).
+
