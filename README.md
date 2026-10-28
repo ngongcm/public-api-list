@@ -87,6 +87,7 @@ API | Description | Auth | HTTPS | Free
 |:---|:---|:---|:---|:---|
 | [TheOddsAPI](https://the-odds-api.com/) | Live odds from 30+ bookmakers | `apiKey` | ✅ | Paid |
 | [Betfair API](https://docs.developer.betfair.com/) | Betting exchange data & automation | `apiKey` | ✅ | Paid |
+| [Sports Odds API (BetRivers, Unibet & 22 more books)](https://apify.com/publicrecords/sports-odds-api) | Live odds from 24 Kambi-powered sportsbooks with the best price per outcome | `apiKey` | ✅ | Freemium |
 
 ---
 
