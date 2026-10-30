@@ -154,6 +154,7 @@ API | Description | Auth | HTTPS | Free
 API | Description | Auth | HTTPS | Free
 |:---|:---|:---|:---|:---|
 | [ScrapeFlow](https://rapidapi.com/sparior/api/scrapeflow) | Web scraping with HTML, text, Markdown, JavaScript rendering, and CSS extraction | `apiKey` | ✅ | Check plans |
+| [ShortDramaKit](https://shortdramakit.com/docs/api) | Collects available short-drama title and episode metadata from supported platforms; coverage varies | `apiKey` | ✅ | Paid |
 
 ---
 
