@@ -183,6 +183,7 @@ API | Description | Auth | HTTPS | Free
 
 API | Description | Auth | HTTPS | Free
 |:---|:---|:---|:---|:---|
+| [AgentSEO](https://www.agentseo.dev/docs/api-reference) | SEO API for AI agents covering SERPs, rank tracking, keyword research, content gaps, and AI visibility | `apiKey` | ✅ | 100 one-time free credits |
 | [DomScan](https://domscan.net/docs) | Domain, DNS, WHOIS/RDAP, TLS, email, security, valuation, and brand intelligence | `apiKey` | ✅ | Free |
 | [RapidAPI](https://rapidapi.com/) | API marketplace & hub | `apiKey` | ✅ | Free |
 | [Postman Public APIs](https://www.postman.com/explore) | Shared API collections for developers | None | ✅ | Free |
