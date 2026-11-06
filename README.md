@@ -87,6 +87,7 @@ API | Description | Auth | HTTPS | Free
 |:---|:---|:---|:---|:---|
 | [TheOddsAPI](https://the-odds-api.com/) | Live odds from 30+ bookmakers | `apiKey` | ✅ | Paid |
 | [Betfair API](https://docs.developer.betfair.com/) | Betting exchange data & automation | `apiKey` | ✅ | Paid |
+| [Odds-API.io](https://odds-api.io/) | Live and pre-match odds from 450+ bookmakers across 34 sports, REST and WebSocket | `apiKey` | ✅ | Paid |
 
 ---
 
