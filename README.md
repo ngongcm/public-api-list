@@ -108,6 +108,7 @@ API | Description | Auth | HTTPS | Free
 | [NewsAPI](https://newsapi.org/) | Global news and headlines | `apiKey` | ✅ | Freemium |
 | [Mediastack](https://mediastack.com/) | Real-time news data feed | `apiKey` | ✅ | Freemium |
 | [CurrentsAPI](https://currentsapi.services/) | Trending news & events | `apiKey` | ✅ | Freemium |
+| [YouTube Transcript Search API by Arcmira](https://arcmira.com) | YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. [API docs](https://arcmira.com/docs) | `apiKey` | ✅ | Freemium |
 
 ---
 
