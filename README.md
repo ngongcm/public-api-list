@@ -176,6 +176,7 @@ API | Description | Auth | HTTPS | Free
 | [Postman Public APIs](https://www.postman.com/explore) | Shared API collections for developers | None | ✅ | Free |
 | [ReqRes](https://reqres.in/) | Mock API for testing frontend apps | None | ✅ | Free |
 | [CurlShot](https://curlshot.com/docs) | Screenshot API: turn a URL, HTML or Markdown into PNG, JPEG, WebP or PDF | `apiKey` | ✅ | Freemium |
+| [FaviconDL](https://favicondl.com/documentation.html) | Get a website's favicon and touch icons by URL (PNG/ICO/SVG), with JSON metadata on every icon the site declares | `None` | ✅ | Free |
 
 ---
 
