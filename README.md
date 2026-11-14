@@ -123,6 +123,7 @@ API | Description | Auth | HTTPS | Free
 | [TikTok Social](https://rapidapi.com/sparior/api/tiktok-social) | TikTok profiles, videos, comments, hashtags, and search | `apiKey` | ✅ | Check plans |
 | [Twitter Social](https://rapidapi.com/sparior/api/twitter-social) | Twitter/X profiles, posts, replies, trends, and search | `apiKey` | ✅ | Check plans |
 | [YouTube Data](https://rapidapi.com/sparior/api/youtube590) | YouTube video and channel data | `apiKey` | ✅ | Check plans |
+| [GetYouTubeTranscript](https://getyoutubetranscript.com/docs) | YouTube video transcripts with timestamps, caption languages, video search, and channel and playlist listings | `apiKey` | ✅ | Freemium |
 
 ---
 
