@@ -86,7 +86,9 @@ API | Description | Auth | HTTPS | Free
 API | Description | Auth | HTTPS | Free
 |:---|:---|:---|:---|:---|
 | [TheOddsAPI](https://the-odds-api.com/) | Live odds from 30+ bookmakers | `apiKey` | ✅ | Paid |
+| [Odds API](https://odds-api.net/docs) | Live and historical bookmaker odds with REST and streaming APIs | `apiKey` | ✅ | Freemium |
 | [Betfair API](https://docs.developer.betfair.com/) | Betting exchange data & automation | `apiKey` | ✅ | Paid |
+| [OddsRelay](https://oddsrelay.io/docs) | Pre-match odds from UK and Irish bookmakers, with exchange lay prices | `apiKey` | ✅ | Paid |
 
 ---
 
@@ -98,6 +100,7 @@ API | Description | Auth | HTTPS | Free
 | [Replicate](https://replicate.com/) | Cloud-based ML model execution | `apiKey` | ✅ | Paid |
 | [Hugging Face Inference API](https://huggingface.co/inference-api) | Run transformers & LLMs in the cloud | `apiKey` | ✅ | Freemium |
 | [HOL Registry Broker](https://hol.org/docs/registry-broker/) | Discover AI agents & MCP servers (OpenAPI available) | `apiKey` | ✅ | Free |
+| [AgentSandboxes](https://agentsandboxes.fyi/developers) | Directory of cloud sandbox providers for AI agents — specs and pricing with cited sources | No | ✅ | Free |
 
 ---
 
@@ -108,6 +111,7 @@ API | Description | Auth | HTTPS | Free
 | [NewsAPI](https://newsapi.org/) | Global news and headlines | `apiKey` | ✅ | Freemium |
 | [Mediastack](https://mediastack.com/) | Real-time news data feed | `apiKey` | ✅ | Freemium |
 | [CurrentsAPI](https://currentsapi.services/) | Trending news & events | `apiKey` | ✅ | Freemium |
+| [Noozra](https://noozra.com/api) | Headlines from 70+ news sites, grouped into stories | `apiKey` | ✅ | Freemium |
 
 ---
 
@@ -189,6 +193,7 @@ API | Description | Auth | HTTPS | Free
 | [ReqRes](https://reqres.in/) | Mock API for testing frontend apps | None | ✅ | Free |
 | [looot](https://looot.ai) | One key and prepaid balance for 2,500+ data endpoints: work emails, phones, company and people enrichment, SERP, web pages | `apiKey` | ✅ | Paid |
 | [AgentSEO](https://www.agentseo.dev/docs/api-reference) | SEO/AEO API for Google SERP analysis, keyword research, rank tracking, and AI Overview monitoring | `apiKey` | ✅ | Paid with 100 one-time live credits |
+| [TempMailGrab](https://tempmailgrab.com/api-docs) | Disposable inboxes with OTP extraction for QA tests | `apiKey` | ✅ | Freemium |
 
 ---
 
