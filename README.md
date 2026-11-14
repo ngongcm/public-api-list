@@ -150,6 +150,7 @@ API | Description | Auth | HTTPS | Free
 |:---|:---|:---|:---|:---|
 | [Real Estate API](https://rapidapi.com/sparior/api/real-estate12) | Real estate listings and property research | `apiKey` | ✅ | Check plans |
 | [AutoHub](https://rapidapi.com/sparior/api/autohub1) | Vehicle specifications, VIN decoding, valuation, recalls, and listings | `apiKey` | ✅ | Check plans |
+| [ForeclosureListings](https://foreclosurelistings.fyi/developers) | Foreclosure sale venues, notice postings and housing-help resources by US city and state | No | ✅ | Free |
 
 ---
 
