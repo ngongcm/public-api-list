@@ -78,6 +78,7 @@ API | Description | Auth | HTTPS | Free
 | [0xArchive](https://docs.0xarchive.io/) | Market data for Hyperliquid and Lighter | `apiKey` | ✅ | Freemium |
 | [Yahoo Finance](https://finance.yahoo.com/) | Global financial market data | None | ✅ | Free |
 | [FinancialData.Net](https://financialdata.net/) | Stock data, financial statements, ratios, and insider trades | `apiKey` | ✅ | Freemium |
+| [Equibles](https://equibles.com/docs/api) | US stock fundamentals, SEC filings, earnings-call transcripts, 13F and insider trades, plus a hosted MCP server | `apiKey` | ✅ | Freemium |
 
 ---
 
