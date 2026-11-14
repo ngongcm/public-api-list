@@ -120,6 +120,7 @@ API | Description | Auth | HTTPS | Free
 API | Description | Auth | HTTPS | Free
 |:---|:---|:---|:---|:---|
 | [Instagram Social](https://rapidapi.com/sparior/api/instagram-social) | Public Instagram profiles, posts, and social data | `apiKey` | ✅ | Check plans |
+| [LurkAPI](https://lurkapi.com/docs) | Public posts, profiles, comments, ads and transcripts from 16 social platforms as JSON | `apiKey` | ✅ | Freemium |
 | [TikTok Social](https://rapidapi.com/sparior/api/tiktok-social) | TikTok profiles, videos, comments, hashtags, and search | `apiKey` | ✅ | Check plans |
 | [Twitter Social](https://rapidapi.com/sparior/api/twitter-social) | Twitter/X profiles, posts, replies, trends, and search | `apiKey` | ✅ | Check plans |
 | [YouTube Data](https://rapidapi.com/sparior/api/youtube590) | YouTube video and channel data | `apiKey` | ✅ | Check plans |
