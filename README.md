@@ -88,6 +88,7 @@ API | Description | Auth | HTTPS | Free
 | [TheOddsAPI](https://the-odds-api.com/) | Live odds from 30+ bookmakers | `apiKey` | ✅ | Paid |
 | [Odds API](https://odds-api.net/docs) | Live and historical bookmaker odds with REST and streaming APIs | `apiKey` | ✅ | Freemium |
 | [Betfair API](https://docs.developer.betfair.com/) | Betting exchange data & automation | `apiKey` | ✅ | Paid |
+| [OddsRelay](https://oddsrelay.io/docs) | Pre-match odds from UK and Irish bookmakers, with exchange lay prices | `apiKey` | ✅ | Paid |
 
 ---
 
