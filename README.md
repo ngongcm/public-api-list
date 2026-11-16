@@ -78,6 +78,9 @@ API | Description | Auth | HTTPS | Free
 | [0xArchive](https://docs.0xarchive.io/) | Market data for Hyperliquid and Lighter | `apiKey` | ✅ | Freemium |
 | [Yahoo Finance](https://finance.yahoo.com/) | Global financial market data | None | ✅ | Free |
 | [FinancialData.Net](https://financialdata.net/) | Stock data, financial statements, ratios, and insider trades | `apiKey` | ✅ | Freemium |
+| [Quotelinks Credit Market Data](https://www.quotelinks.com/api/credit-market-data/) | NY Fed corporate bond distress index, Treasury HQM yield curve and CFTC credit default swap data | None | ✅ | Free |
+| [Quotelinks SEC Fundamentals](https://www.quotelinks.com/api/sec-fundamentals/) | Standardized SEC EDGAR financial statements, profiles and filings for 21,000+ companies | None | ✅ | Free |
+| [Quotelinks Exchange Rates](https://www.quotelinks.com/api/exchange-rates/) | ECB daily euro reference rates for 30 currencies since 1999, with conversion | None | ✅ | Free |
 
 ---
 
