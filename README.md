@@ -193,6 +193,7 @@ API | Description | Auth | HTTPS | Free
 | [ReqRes](https://reqres.in/) | Mock API for testing frontend apps | None | ✅ | Free |
 | [looot](https://looot.ai) | One key and prepaid balance for 2,500+ data endpoints: work emails, phones, company and people enrichment, SERP, web pages | `apiKey` | ✅ | Paid |
 | [AgentSEO](https://www.agentseo.dev/docs/api-reference) | SEO/AEO API for Google SERP analysis, keyword research, rank tracking, and AI Overview monitoring | `apiKey` | ✅ | Paid with 100 one-time live credits |
+| [FairValid](https://fairvalid.com/en/help/api) | Single and bulk email verification API with job results and credit balance; account required | `apiKey` | ✅ | Freemium, 300 shared credits/month; unknown and catch-all results cost zero net credits |
 | [TempMailGrab](https://tempmailgrab.com/api-docs) | Disposable inboxes with OTP extraction for QA tests | `apiKey` | ✅ | Freemium |
 
 ---
