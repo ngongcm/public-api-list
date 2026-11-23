@@ -180,6 +180,7 @@ API | Description | Auth | HTTPS | Free
 | [Postman Public APIs](https://www.postman.com/explore) | Shared API collections for developers | None | ✅ | Free |
 | [ReqRes](https://reqres.in/) | Mock API for testing frontend apps | None | ✅ | Free |
 | [CurlShot](https://curlshot.com/docs) | Screenshot API: turn a URL, HTML or Markdown into PNG, JPEG, WebP or PDF | `apiKey` | ✅ | Freemium |
+| [PennyCompute](https://pennycompute.com/docs) | Prepaid pay-per-job API for FFmpeg, Remotion rendering, and MiniMax H3 video | `apiKey` | ✅ | Paid |
 
 ---
 
