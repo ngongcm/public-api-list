@@ -78,6 +78,7 @@ API | Description | Auth | HTTPS | Free
 | [0xArchive](https://docs.0xarchive.io/) | Market data for Hyperliquid and Lighter | `apiKey` | ✅ | Freemium |
 | [Yahoo Finance](https://finance.yahoo.com/) | Global financial market data | None | ✅ | Free |
 | [FinancialData.Net](https://financialdata.net/) | Stock data, financial statements, ratios, and insider trades | `apiKey` | ✅ | Freemium |
+| [CreditUnions](https://creditunions.fyi/developers) | US credit union directory from the NCUA register — charter, field of membership, assets, members | No | ✅ | Free |
 
 ---
 
