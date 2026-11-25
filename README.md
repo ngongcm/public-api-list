@@ -112,6 +112,7 @@ API | Description | Auth | HTTPS | Free
 | [Mediastack](https://mediastack.com/) | Real-time news data feed | `apiKey` | ✅ | Freemium |
 | [CurrentsAPI](https://currentsapi.services/) | Trending news & events | `apiKey` | ✅ | Freemium |
 | [Noozra](https://noozra.com/api) | Headlines from 70+ news sites, grouped into stories | `apiKey` | ✅ | Freemium |
+| [FlowFeed](https://flowfeed.cc) | Real-time macro, forex and crypto news, economic calendar and central bank releases over MCP | `OAuth` | ✅ | Paid |
 
 ---
 
