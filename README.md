@@ -158,6 +158,7 @@ API | Description | Auth | HTTPS | Free
 API | Description | Auth | HTTPS | Free
 |:---|:---|:---|:---|:---|
 | [ScrapeFlow](https://rapidapi.com/sparior/api/scrapeflow) | Web scraping with HTML, text, Markdown, JavaScript rendering, and CSS extraction | `apiKey` | ✅ | Check plans |
+| [Leadsets](https://www.leadsets.ai/docs) | Unlimited B2B Contact Data for AI Agents, Starting from $29/mo: B2B people and company search, enrichment, work email verification and company/careers page scraping over REST or MCP | `apiKey` | ✅ | Freemium |
 
 ---
 
