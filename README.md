@@ -101,7 +101,7 @@ API | Description | Auth | HTTPS | Free
 | [Hugging Face Inference API](https://huggingface.co/inference-api) | Run transformers & LLMs in the cloud | `apiKey` | ✅ | Freemium |
 | [HOL Registry Broker](https://hol.org/docs/registry-broker/) | Discover AI agents & MCP servers (OpenAPI available) | `apiKey` | ✅ | Free |
 | [AgentSandboxes](https://agentsandboxes.fyi/developers) | Directory of cloud sandbox providers for AI agents — specs and pricing with cited sources | No | ✅ | Free |
-| [UberLLM](https://uberllm.dev/) | One OpenAI/Anthropic-compatible API for chat, image, video and music models | `apiKey` | ✅ | Paid |
+| [MartLLM](https://martllm.com/) | One OpenAI/Anthropic-compatible API for chat, image, video and music models | `apiKey` | ✅ | Paid |
 
 ---
 
