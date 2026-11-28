@@ -89,6 +89,7 @@ API | Description | Auth | HTTPS | Free
 | [Odds API](https://odds-api.net/docs) | Live and historical bookmaker odds with REST and streaming APIs | `apiKey` | ✅ | Freemium |
 | [Betfair API](https://docs.developer.betfair.com/) | Betting exchange data & automation | `apiKey` | ✅ | Paid |
 | [OddsRelay](https://oddsrelay.io/docs) | Pre-match odds from UK and Irish bookmakers, with exchange lay prices | `apiKey` | ✅ | Paid |
+| [PinnFeed](https://pinnfeed.io/docs) | Real-time Pinnacle odds over REST and WebSocket, with no-vig fair odds and closing-line history | `apiKey` | ✅ | Freemium |
 
 ---
 
